@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/django/Manim/media/videos/Manim/1080p60/partial_movie_files/vi/450974505_707633533_223132457.mp4'
